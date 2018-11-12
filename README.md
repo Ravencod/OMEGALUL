@@ -1,1 +1,1 @@
-<a href="LMAO.surge.sh">LMAO</a>
+<a href="http://www.LMAO.surge.sh">LMAO</a>
