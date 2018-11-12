@@ -1,2 +1,1 @@
-# LMAO
-LMAO.surge.sh
+<a href="LMAO.surge.sh">LMAO</a>
